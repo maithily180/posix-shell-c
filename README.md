@@ -39,9 +39,6 @@ A fully-featured shell implementation supporting:
 ### Compilation and Usage
 
 ```bash
-# Navigate to shell directory
-cd shell/
-
 # Compile the shell
 make all
 
